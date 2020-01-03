@@ -1,14 +1,15 @@
 # UPS_billing_analysis
 A series of python scripts for UPS billing data analysis
 
-## The purpose of of this repository is to provide some basic python lines of code to produce:
-### - Statistical analysis
-### - Visualizations
+## The purpose of of this repository is to provide a replicable solution for billing analysis using:
+### - Statistical analysis (advanced excel)
+### - Visualizations (Tableau)
+### - SQL
 
 Dataset:
 - One sanitized csv file from a real UPS client (removed or replaced real: account number, reference fields, other)
 
-Libraries used:
+Python libraries used:
 Numpy
 Pandas
 Matplotlib
@@ -17,4 +18,6 @@ Seaborn
 Project output:
 - Jupyter notebook file containing the scripts
 - HTML file containing visualizations
+- Excel file containing formulas
+- SQL queries
 - PDF file containing a billing data analysis report
