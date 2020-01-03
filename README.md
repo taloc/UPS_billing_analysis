@@ -1,5 +1,5 @@
 # UPS_billing_analysis
-A series of python scripts for UPS billing data analysis
+A standard procedure for analyzing UPS billing data (250 columns csv file)
 
 ## The purpose of of this repository is to provide a replicable solution for billing analysis using:
 ### - Statistical analysis (advanced excel)
